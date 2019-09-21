@@ -18,7 +18,7 @@ int main()
 		cout << "To open a file type a number (1-2)\n";
 		cout << "\t 1. users.txt\n";
 		cout << "\t 2. books.txt\n" << endl;
-		// Pozdrawiam mojego przyjaciela Piotrula :)
+		// Pozdrawiam mojego przyjaciela Piotrula :) xD
 		cin >> n;
 
 		system("cls");
